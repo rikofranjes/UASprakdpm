@@ -208,7 +208,7 @@ export default function HealthRecordScreen() {
         <View style={styles.header}>
           <View style={styles.headerContent}>
             <View>
-              <Text style={styles.headerTitle}>Catatan Penjulan</Text>
+              <Text style={styles.headerTitle}>CATATAN JURNAL KEBUGARAN </Text>
               <Text style={styles.date}>
                 {new Date().toLocaleDateString('id-ID', {
                   weekday: 'long',
